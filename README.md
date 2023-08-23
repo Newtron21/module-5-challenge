@@ -41,7 +41,8 @@ THEN the saved events persist
 
 Use for class for homework assignment
 
-[What page was supposed to look like](assets/05-third-party-apis-homework-demo.gif)
+![What page was supposed to look like](assets/05-third-party-apis-homework-demo.gif)
+
 
 ## Credits
 
